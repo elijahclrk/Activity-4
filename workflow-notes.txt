@@ -1,0 +1,2 @@
+Git workflow: each member works on own branch, leader merges to main.
+Merge order: documentation, research, content-draft, review-qa.
