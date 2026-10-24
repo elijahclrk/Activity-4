@@ -4,7 +4,7 @@ Institution: Technological University of the Philippines - Manila
 Repository: https://github.com/elijahclrk/Activity-4
 
 RESEARCH PAPER TITLE
-(ilagay ang pamagat dito)
+Second Daze Apparel
 
 GROUP MEMBERS AND TASK ASSIGNMENTS
 1. Elijah Clark Refuncion (GitHub: elijahclrk) - Project Lead / Repo Owner: repository setup, Git workflow coordination, merging, and conflict resolution
