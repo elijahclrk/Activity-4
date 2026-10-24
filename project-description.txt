@@ -1,3 +1,5 @@
 PROJECT DESCRIPTION
 Documentation Lead: Stephanie Cuajao
 Project description: (isulat ang description ng project)
+
+Progress notes: Repository created, branches assigned to members.
