@@ -9,7 +9,7 @@ RESEARCH PAPER TITLE
 GROUP MEMBERS AND TASK ASSIGNMENTS
 1. Elijah Clark Refuncion (GitHub: elijahclrk) - Project Lead / Repo Owner: repository setup, Git workflow coordination, merging, and conflict resolution
 2. Stephanie Cuajao (GitHub: stphnnc) - Documentation Lead: project description and progress notes
-3. Kate Nicole De Vera (GitHub: KtnclSantos) - Researcher: sources, references, and key findings
+3. Kate Nicole De Vera (GitHub: katesantos0002-eng) - Researcher: sources, references, and key findings
 4. Ramlei Cyrus De Guzman (GitHub: Takishao) - Content Writer: intro, body, and conclusion draft
 5. Ian Diaz (GitHub: iandiaz003) - Reviewer / QA: review notes and grammar check
 
