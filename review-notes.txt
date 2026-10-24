@@ -3,3 +3,5 @@ Reviewer / QA: Ian Diaz
 Task: review notes and grammar check
 
 Grammar check: (ilista ang mga nirebyu at inayos)
+
+Status: review in progress
